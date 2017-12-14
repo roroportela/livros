@@ -1,10 +1,10 @@
 [{"id":1,"nome":"Introdução a sistemas de banco de dados","edicao":"8 Edição","autor":"C. J. Date",
-"editora":"Editora Campus","descricao":"O material está organizado em seis partes principais. A Parte I apresenta uma ampla introdução aos conceitos de sistemas de " +
-                        "bancos de dados em geral e de sistemas relacionais em particular. A parte II consiste em uma descrição cuidadosa do modelo " +
-                        "relacional, a base teórica para a área de bancos de dados como um todo. A Parte III discute a teoria e a prática do projeto de " +
-                        "bancos de dados. A Parte IV se ocupa do gerenciamento de transações. A Parte V mostra como os conceitos relacionais são relevantes " +
-                        "para uma variedade de aspectos adicionais da tecnologia de bancos de dados, como segurança, banco de dados distribuídos, dados " +
-                        "temporais, apoio à decisão, e assim por diante. Finalmente, a Parte VI descreve o impacto da tecnologia de objetos sobre os sistemas " +
-                        "de bancos de dados. Os leitores deste livro irão obter um consistente conhecimento prático da estrutura global, dos conceitos e dos " +
-                        "objetivos de sistemas de banco de dados, e também se familiarizarão com os princípios teóricos em que se baseia a elaboração de tais " +
-                        "sistemas.","imagem":"-12.9717092"}]
+"editora":"Editora Campus","descricao":"O material está organizado em seis partes principais. A Parte I apresenta uma ampla introdução aos conceitos de sistemas de 
+bancos de dados em geral e de sistemas relacionais em particular. A parte II consiste em uma descrição cuidadosa do modelo 
+relacional, a base teórica para a área de bancos de dados como um todo. A Parte III discute a teoria e a prática do projeto de 
+bancos de dados. A Parte IV se ocupa do gerenciamento de transações. A Parte V mostra como os conceitos relacionais são relevantes 
+para uma variedade de aspectos adicionais da tecnologia de bancos de dados, como segurança, banco de dados distribuídos, dados 
+temporais, apoio à decisão, e assim por diante. Finalmente, a Parte VI descreve o impacto da tecnologia de objetos sobre os sistemas 
+de bancos de dados. Os leitores deste livro irão obter um consistente conhecimento prático da estrutura global, dos conceitos e dos 
+objetivos de sistemas de banco de dados, e também se familiarizarão com os princípios teóricos em que se baseia a elaboração de tais 
+sistemas.","imagem":"-12.9717092"}]
