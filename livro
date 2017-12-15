@@ -1,4 +1,4 @@
-[{"id":1,"nome":"Introdução a sistemas de banco de dados","edicao":"8 Edição","autor":"C. J. Date",
+[{"_id":1,"nome":"Introdução a sistemas de banco de dados","edicao":"8 Edição","autor":"C. J. Date",
 "editora":"Editora Campus","descricao":"O material está organizado em seis partes principais. A Parte I apresenta uma ampla introdução aos conceitos de sistemas de 
 bancos de dados em geral e de sistemas relacionais em particular. A parte II consiste em uma descrição cuidadosa do modelo 
 relacional, a base teórica para a área de bancos de dados como um todo. A Parte III discute a teoria e a prática do projeto de 
@@ -8,7 +8,7 @@ temporais, apoio à decisão, e assim por diante. Finalmente, a Parte VI descrev
 de bancos de dados. Os leitores deste livro irão obter um consistente conhecimento prático da estrutura global, dos conceitos e dos 
 objetivos de sistemas de banco de dados, e também se familiarizarão com os princípios teóricos em que se baseia a elaboração de tais 
 sistemas.","imagem":"https://github.com/roroportela/livros/blob/master/imagens/bancodedados.jpg"},
-{"id":2,"nome":"Direito Constitucional","edicao":"16ª Ed. 2017","autor":"Paulo,Vicente; Alexandrino,Marcelo",
+{"_id":2,"nome":"Direito Constitucional","edicao":"16ª Ed. 2017","autor":"Paulo,Vicente; Alexandrino,Marcelo",
 "editora":"Editora Método","descricao":"Considerada como uma das obras mais didáticas do momento, além de possuir linguagem de fácil 
 compreensão, o livro Direito Constitucional Descomplicado - 16ª Ed. 2017 aborda todos os temas relevantes da disciplina, contemplando o
 conteúdo de editais dos principais concursos públicos, bem como os programas das universidades do país com o rigor científico que a matéria
