@@ -7,7 +7,7 @@ para uma variedade de aspectos adicionais da tecnologia de bancos de dados, como
 temporais, apoio à decisão, e assim por diante. Finalmente, a Parte VI descreve o impacto da tecnologia de objetos sobre os sistemas
 de bancos de dados. Os leitores deste livro irão obter um consistente conhecimento prático da estrutura global, dos conceitos e dos
 objetivos de sistemas de banco de dados, e também se familiarizarão com os princípios teóricos em que se baseia a elaboração de tais
-sistemas.","imagem":"https://github.com/roroportela/livros/blob/master/imagens/bancodedados.jpg"},
+sistemas.","imagem":"https://raw.githubusercontent.com/roroportela/livros/master/imagens/bancodedados.jpg"},
 
 {"_id":2,"nome":"Direito Constitucional","edicao":"16ª Ed. 2017","autor":"Paulo,Vicente; Alexandrino,Marcelo",
 "editora":"Editora Método","descricao":"Considerada como uma das obras mais didáticas do momento, além de possuir linguagem de fácil 
@@ -15,13 +15,13 @@ compreensão, o livro Direito Constitucional Descomplicado - 16ª Ed. 2017 abord
 conteúdo de editais dos principais concursos públicos, bem como os programas das universidades do país com o rigor científico que a 
 matéria exige. O livro apresenta também uma extensa seleção com exercícios extraídos de importantes bancas examinadoras, tudo organizado
 por assunto, facilitando na fixação do conteúdo estudado e também na localização de temas. Por isso, contém também uma fita
-marca-página.","imagem":"https://github.com/roroportela/livros/blob/master/imagens/direitoconstitucional.jpg"},
+marca-página.","imagem":"https://raw.githubusercontent.com/roroportela/livros/master/imagens/direitoconstitucional.jpg"},
 
 {"_id":3,"nome":"Administração - Teoria, Processo e Prática","edicao":"5ª Ed. 2014","autor":"Chiavenato,Idalberto",
 "editora":"Editora MANOLE","descricao":"Atualizada, a obra recebeu a inclusão de conceitos amplamente discutidos nos dias de hoje, 
 como competitividade e competências essenciais, criação de valor, responsabilidade social, sustentabilidade, inovação, ética e governança 
 corporativa, dentre outros que fazem parte da agenda do administrador moderno.",
-"imagem":"https://github.com/roroportela/livros/blob/master/imagens/administracao.jpg"}
+"imagem":"https://raw.githubusercontent.com/roroportela/livros/master/imagens/administracao.jpg"}
 
 {"_id":4,"nome":"Manual de Direito Civil - Volume Único","edicao":"7ª Ed. 2017","autor":"Tartuce,Flávio",
 "editora":"Editora Método",
@@ -38,16 +38,13 @@ e multiculturalista e propõe interação com outros juristas e, também, com ou
 Direito do Consumidor e o Direito Constitucional. Se você é 
 estudante, professor ou profissional jurídico já sabe que esse livro vai 
 ser um grande suporte para sua formação ou atualização da carreira. Então, compre já o seu!",
-"imagem":"https://github.com/roroportela/livros/blob/master/imagens/Manual%20de%20Direito%20Civil.jpg"}
+"imagem":"https://raw.githubusercontent.com/roroportela/livros/master/imagens/Manual%20de%20Direito%20Civil.jpg"}
 
 
 
 {"_id":5,"nome":"Tecnologia do Concreto","edicao":"2ª Ed. 2013","autor":"Neville,A. M. / Brooks,J. J.",
-"editora":"Editora Bookman","descricao":"O concreto é um dos 
-materiais mais utilizados nas construções no Brasil. Esta obra apresenta 
-todos os aspectos da tecnologia do concreto, desde os mais básicos, evoluindo para os mais 
-complexos. Inclui materiais constituintes, 
+"editora":"Editora Bookman","descricao":"O concreto é um dos materiais mais utilizados nas construções no Brasil. Esta obra apresenta 
+todos os aspectos da tecnologia do concreto, desde os mais básicos, evoluindo para os mais complexos. Inclui materiais constituintes, 
 efeitos do meio ambiente, durabilidade, concretos especiais, ensaios, etc.",
-
-"imagem":"https://github.com/roroportela/livros/blob/master/imagens/Tecnologia%20do%20Concreto.png"}]
+"imagem":"https://raw.githubusercontent.com/roroportela/livros/master/imagens/Tecnologia%20do%20Concreto.png"}]
 
